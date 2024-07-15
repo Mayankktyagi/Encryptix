@@ -1,2 +1,2 @@
-I can't add dataset "creditcard.csv" since it was quite a big data of size 155MB and GitHub requires file of size less than 25MB. So, I am adding kink of the dataset. Here yopu go:
+I can't add dataset "creditcard.csv" since it was quite a big data of size 155MB and GitHub requires file of size less than 25MB. So, I am adding link of the dataset. Kindly copy and paste this link. Here you go:
 Visit dataset:- https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
